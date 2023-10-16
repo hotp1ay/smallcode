@@ -1,1 +1,2 @@
 # smallcode
+just for fun
